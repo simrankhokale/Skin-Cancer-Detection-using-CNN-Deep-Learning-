@@ -1,5 +1,4 @@
 # Skin-Cancer-Detection-using-CNN-Deep-Learning-
-# Skin Cancer Detection using CNN (Deep Learning)
 
 This project demonstrates a **Convolutional Neural Network (CNN)** model that detects **malignant (cancerous)** and **benign (non-cancerous)** skin lesions using deep learning.  
 It is a **demo version** that works even without an external dataset by generating synthetic data, helping visualize model training and accuracy trends.
