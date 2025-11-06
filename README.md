@@ -25,7 +25,7 @@ It is a **demo version** that works even without an external dataset by generati
 
 | Training Graph (Accuracy Progress) |
 |------------------------------------|
-| ![Training Progress](https://github.com/simrankhokale/Skin-Cancer-Detection-using-CNN-Deep-Learning-/assets/12345678/abcdef12-example_training_graph.png)
+| ![Training Progress](example_training_graph.png)
  
 
 
