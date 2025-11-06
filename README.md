@@ -21,12 +21,12 @@ It is a **demo version** that works even without an external dataset by generati
 - **scikit-learn** – preprocessing and data splitting  
 
 ---
-
 ## Output Preview
 
-| Training Graph | Example Output |
-|----------------|----------------|
-| ![Training Progress](https://github.com/user-attachments/assets/example_training_graph.png) | ![Prediction Example](https://github.com/user-attachments/assets/example_prediction_output.png) |
+| Training Graph (Accuracy Progress) |
+|------------------------------------|
+| ![Training Progress](https://github.com/simrankhokale/skin-cancer-detection/assets/example_training_graph.png) 
+
 
 ---
 
